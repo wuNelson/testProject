@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestProjectApplication {
 
     public static void main(String[] args) {
-        System.out.println("local test!");
         SpringApplication.run(TestProjectApplication.class, args);
     }
 
